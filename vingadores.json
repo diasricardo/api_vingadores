@@ -1,0 +1,36 @@
+{
+    "nome": "Vingadores",
+    "membros": [
+      {
+        "nome": "Homem de Ferro",
+        "idade": 48,
+        "identidadeSecreta": "Tony Stark",
+        "poderes": ["Inteligência avançada", "Armadura tecnológica", "Voo"]
+      },
+      {
+        "nome": "Capitão América",
+        "idade": 105,
+        "identidadeSecreta": "Steve Rogers",
+        "poderes": ["Força aprimorada", "Habilidade em combate", "Escudo indestrutível"]
+      },
+      {
+        "nome": "Thor",
+        "idade": 1500,
+        "identidadeSecreta": "Thor Odinson",
+        "poderes": ["Controle do trovão", "Força divina", "Mjolnir"]
+      },
+      {
+        "nome": "Hulk",
+        "idade": 50,
+        "identidadeSecreta": "Bruce Banner",
+        "poderes": ["Força sobre-humana", "Regeneração", "Resistência extrema"]
+      },
+      {
+        "nome": "Viúva Negra",
+        "idade": 38,
+        "identidadeSecreta": "Natasha Romanoff",
+        "poderes": ["Espionagem", "Habilidade em artes marciais", "Uso de armas"]
+      }
+    ]
+  }
+  
