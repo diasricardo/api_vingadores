@@ -57,7 +57,8 @@ app.get('/api/vingadores/idade-e-poderes', (req, res) => {
     }
   });
 
-// Inicia o servidor
-app.listen(PORT, () => {
-  console.log(`✅ Servidor rodando em http://localhost:${PORT}`);
-});
+  export default app;
+// // Inicia o servidor
+// app.listen(PORT, () => {
+//   console.log(`✅ Servidor rodando em http://localhost:${PORT}`);
+// });
