@@ -8,6 +8,9 @@ const PORT = 3000;
 app.use(cors());
 app.use(express.json());
 
+app.get('/', (req,res) =>{
+  res.status('bem-vindo')
+})
 // Rota que lê o JSON e retorna apenas as identidades secretas dos membros
 app.get('/api/vingadores/identidades', (req, res) => {
   try {
